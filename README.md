@@ -2,7 +2,7 @@
 
 >Status do projeto: em desenvolvimento
 >
-Para rodar em sua maquina :
+Para rodar em sua maquina =]:
 ```
 node app.js
 ```
